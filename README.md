@@ -4,4 +4,4 @@
 🔥 Creative coder  
 💻 Always building something weird, useful, or fun  
 
-🚀 Currently working on [sandIA](https://www.sandia.dev/)
+🚀 Currently working on [eidos](https://eidos.vision)
