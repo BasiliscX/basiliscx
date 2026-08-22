@@ -4,4 +4,4 @@
 🔥 Creative coder  
 💻 Always building something weird, useful, or fun  
 
-🚀 Currently working on [kinexa](https://kinexa.com.ar)
+🚀 Currently working on [Bateleur](https://bateleur.cards)
